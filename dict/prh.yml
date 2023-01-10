@@ -1,0 +1,23 @@
+rules:
+  - expected: overflow
+    pattern: /overflow/i
+  - expected: Ruby on Rails
+    pattern: /ruby\s?on\s?rails/i
+  - expected: JavaScript
+    pattern: /java\s?script/i
+  - expected: TypeScript
+    pattern: /type\s?script/i
+  - expected: WordPress
+    pattern: /wordpress/i
+  - expected: Offers
+    pattern: /offers/i
+  - expected: リポジトリ
+    pattern: レポジトリ
+  - expected: Go
+    pattern: /golang/i
+  - expected: Datadog
+    pattern: /datadog/i
+  - expected: Google Apps Script
+    pattern: /google apps? script/i
+  - expected: RuboCop
+    pattern: /rubocop/i
